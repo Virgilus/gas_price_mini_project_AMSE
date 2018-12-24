@@ -3,7 +3,7 @@
 Ce dépôt contient deux fichiers :
 
 - **Mini-Project_gas_modelisation.ipynb** :
-Un script python conçu pour être lancé sur Jupyter Lab (ou Jupyter notebook)
+Un script python conçu pour être lancé sur Jupyter (Lab ou Notebook).
 
 - **parameters.yml** :
 
